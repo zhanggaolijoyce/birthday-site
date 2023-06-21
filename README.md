@@ -1,4 +1,4 @@
-I finish this simple project under Scrimba(https://scrimba.com/playlist/pKgWxCP)
+I finish this simple project under Scrimba(https://scrimba.com/playlist/pMgPEAM)
 
 It can be used to celebrate other's birthday. It consists of three parts, when the mouse hovers over each gift icon, it will show different pictures.
 
